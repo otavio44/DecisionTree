@@ -1,0 +1,13 @@
+programa testavetor
+ 	inteiro [4]vetor
+ 	inteiro i j
+inicio
+ 	i <- 0
+ 	enquanto i < 4 faca
+		vetor[1] <-  534
+        escreva i
+ 		i <- i + 1
+ 	fimenquanto
+
+ 
+ fimprograma

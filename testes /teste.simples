@@ -1,0 +1,14 @@
+programa teste
+	inteiro [5]hh
+	inteiro i j 
+inicio 
+	i <- 4
+	j <- 5
+	hh[0] <- 1 
+	escreva hh[i]
+	leia hh[j - i]
+	hh[1] <- 655
+	escreva hh[hh[i -j + 1]]
+	leia hh[hh[i -j + 1]]
+	escreva hh[hh[i -j + 1]]
+fimprograma

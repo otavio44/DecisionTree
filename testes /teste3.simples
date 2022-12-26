@@ -1,0 +1,19 @@
+programa teste
+	inteiro j k
+	logico ma
+
+inicio 
+	
+    
+
+    j <- 15
+	k<-20
+    
+    escreva j
+
+    k <- 20
+
+	
+    escreva j
+
+fimprograma
