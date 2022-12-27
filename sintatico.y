@@ -467,4 +467,3 @@ int main(void){
 	limpaED();
 	
 }
-
